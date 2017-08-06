@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EverPlusTest01</string>
+    <string name="title_text">에버플러스 테스트 1</string>
+    <string name="check_box_option_server_A">서버 A</string>
+    <string name="check_box_option_server_B">서버 B</string>
+    <string name="btn_request">요청 전송</string>
+    <string name="edittext_get_text_hint">텍스트를 입력해주세요</string>
+
+    <string name="url_server_A">http://www.a.com/1/functions/createPost</string>
+    <string name="url_server_B">http://www.b.com/post</string>
+</resources>
