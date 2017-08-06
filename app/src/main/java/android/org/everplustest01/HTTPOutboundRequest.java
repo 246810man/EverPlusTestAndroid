@@ -9,6 +9,7 @@ import org.json.JSONObject;
  */
 
 public class HTTPOutboundRequest {
+    //요청 서버의 url과 요청 메세지 바디를 정의한 클래스
 
     String url;
     JSONObject messageBodyObject;
